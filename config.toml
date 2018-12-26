@@ -1,13 +1,11 @@
-baseURL = "https://dssg-berlin.org/dssg-berlin.org/"
-languageCode = "de-de"
+baseURL = "http://new.dssg-berlin.org"
+languageCode = "en-us"
 title = "DSSG Berlin"
 theme = "dssg"
 
 DefaultContentLanguage = "de"
 
 sectionPagesMenu = "main"
-RelativeURLs = true
-CanonifyURLs = true
 
 [languages]
 [languages.en]
