@@ -14,17 +14,16 @@
   translation: Anmelden
 
 - id: homepage_staying_updated
-  translation: Staying up to date with DSSG Berlin
+  translation: Bleiben Sie auf dem Laufenden
 
 - id: homepage_dssg_elsewhere
-  translation: Find us elsewhere
+  translation: Andere Orte
 
 - id: homepage_our_events
-  translation: See our coming events on eventbrite
+  translation: Unsere nächsten Events auf Eventbrite
 
 - id: homepage_our_content
-  translation: Read more about DSSG on Medium
-
+  translation: Unser Blog
 
 - id: footer_what_we_do
   translation: Wir helfen dabei Daten nutzbar zu machen, indem wir gemeinnützige Organisationen mit freiwilligen Datenwissenschaftlern bei Veranstaltungen, Hackathons und maßgeschneiderten Projekten zusammenbringen.

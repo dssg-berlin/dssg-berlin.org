@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+{{ block "header" . }}
+{{ partial "header.html" . }}
+{{ end }}
+
+<body class="w-100 sans-serif bg-white">
+
+    {{ block "nav" . }}
+    {{ partial "site-nav.html" . }}
+    {{ end }}
+
+    {{ block "main" . }}
+    {{ end }}
+
+    {{ block "footer" . }}
+    {{ partial "footer.html" . }}
+    {{ end }}
+
+</body>
+
+</html>

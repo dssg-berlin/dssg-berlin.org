@@ -1,120 +1,42 @@
-<!DOCTYPE html>
+{{ define "main" }}
 
-<html lang="en">
+    {{ .Content }}
 
-{{ partial "header.html" . }}
+    <div class="w-100 pa4 center bg-dark-gray bt b--black-30  ">
+        
+        <h2 class="white">{{ i18n "homepage_staying_updated" }}</h2>
+        
+        <div class="flex-ns">
 
-<body class="w-100 sans-serif bg-white">
+            <div class="updates w-100 w-50-ns fl">
+                {{ partial "newsletter.html" . }}
+            </div>
+            <div class="white w-100 w-30-ns b--white-30">
+                
+                <h3 class="f4 pv0 mv0 normal">{{ i18n "homepage_dssg_elsewhere" }}</h3>
 
-<style>
-.what-we-do {
-    background: url(/images/front-page-pic-uncropped.jpg) no-repeat center center fixed;
-    background-size: cover;    
-}
-
-.bg-dssg-blue {
-background-color: rgba(0, 166, 248, 0.8)
-}
-
-.what-we-do h2, .what-we-do h3 {
-    text-shadow: 1px 1px  #777
-}
-
-</style>
-
-{{ partial "site-nav.html" . }}
-
-{{ .Content }}
-
-<div class="w-100 pa4 center bg-dark-gray bt b--black-30  ">
-    
-    <h2 class="white">Staying up to date with DSSG Berlin</h2>
-    
-    <div class="flex-ns">
-
-        <div class="updates w-100 w-50-ns fl">
-            {{ partial "newsletter.html" . }}
-        </div>
-        <div class="white w-100 w-30-ns b--white-30">
-            
-            <h3 class="f4 pv0 mv0 normal">{{ i18n "homepage_dssg_elsewhere" }}</h3>
-
-            <ul class="list pa0">
-                <li class="mv2">
-                    <h3 class="normal dtc ">
-                        <img class="v-mid" src="/images/logos/eventbrite_e_orange.png" style="height:1.5em;" alt="">
-                        <a href="https://www.eventbrite.de/o/data-science-for-social-good-berlin-12923757440" class="white">
-                            <span class="v-mid">{{ i18n "homepage_our_events" }}</span>
-                        </a>
-                    </h3>
-                </li>
-                <li class="mv2">
-                    <h3 class="normal dtc">
-                        <img class="v-mid" src="/images/logos/medium-monogram.svg" style="height:1.5em;" alt="">
-                        <a href="blog.dssg-berlin.org" class="white">
-                            <span class="v-mid">{{ i18n "homepage_our_content" }}</span>
-                        </a>
-                    </h3>
-                </li>
-            </ul>
-        </div>
-    </div>
-</div>
-
-
-
-
-
-            <div id="who" class="w-100 pa4 center">
-                <h2>Team</h2>
-                <ul class="flex-ns flex-wrap list">
-                    <li class="w-25 center ma3 tc">
-                        <img class="br-100 dib ba b--dark-blue" src='/images/bio-pics/chris.adams.100x100.jpg'>
-                        
-                        <p class="f4 mb2 mt2">Chris Adams</p>
-                        <p class="f5 ma1 gray">Product Manager</p>
+                <ul class="list pa0">
+                    <li class="mv2">
+                        <h3 class="normal dtc ">
+                            <img class="v-mid" src="/images/logos/eventbrite_e_orange.png" style="height:1.5em;" alt="">
+                            <a href="https://www.eventbrite.de/o/data-science-for-social-good-berlin-12923757440" class="white">
+                                <span class="v-mid">{{ i18n "homepage_our_events" }}</span>
+                            </a>
+                        </h3>
                     </li>
-                    <li class="w-25 center ma3 tc"> 
-                        <img class="br-100 dib ba b--dark-blue" src='/images/bio-pics/jennifer.ahrens.100x100.jpg'>
-                        <p class="f4 mb2 mt2">Jennifer Ahrens</p>
-                        <p class="f5 ma1 gray">Data Scientist</p>
-                    </li>
-                    
-                    <li class="w-25 center ma3 tc">
-                        <img class="br-100 dib ba b--dark-blue" src='/images/bio-pics/daniel.kirsch.100x100.jpg'>
-                        <p class="f4 mb2 mt2">Daniel Kirsch</p>
-                        <p class="f5 ma1 gray">Mathematiker</p>
-                    </li>
-                    <li class="w-25 center ma3 tc">
-                        <img class="br-100 dib ba b--dark-blue" src='/images/bio-pics/jana.kludas.100x100.jpg'>
-                        <p class="f4 mb2 mt2">Jana Kludas</p>
-                        <p class="f5 ma1 gray">Data Scientist</p>
-                    </li>
-                    <li class="w-25 center ma3 tc">
-                        <img class="br-100 dib ba b--dark-blue" src='/images/bio-pics/jan.kyri.100x100.jpg'>
-                        <p class="f4 mb2 mt2">Jan Kyri</p>
-                        <p class="f5 ma1 gray">Data Freelancer</p>
-                    </li>
-                    <li class="w-25 center ma3 tc">
-                        <img class="br-100 dib ba b--dark-blue" src='/images/bio-pics/jannes.quer.100x100.jpg'>
-                        <p class="f4 mb2 mt2">Jannes Quer</p>
-                        <p class="f5 ma1 gray">Data Scientist</p>
-                    </li>
-                    <li class="w-25 center ma3 tc">
-                        <img class="br-100 dib ba b--dark-blue" src='/images/bio-pics/katharina.rasch.100x100.jpg'>
-                        <p class="f4 mb2 mt2">Katharina Rasch</p>
-                        <p class="f5 ma1 gray">Data Scientist</p>
+                    <li class="mv2">
+                        <h3 class="normal dtc">
+                            <img class="v-mid" src="/images/logos/medium-monogram.svg" style="height:1.5em;" alt="">
+                            <a href="/blog/" class="white">
+                                <span class="v-mid">{{ i18n "homepage_our_content" }}</span>
+                            </a>
+                        </h3>
                     </li>
                 </ul>
             </div>
+        </div>
+    </div>
 
+    {{ partial "team.html" . }}
 
-
-
-</div>
-    
- {{ partial "footer.html" . }}
-
-</body>
-
-</html>
+{{ end }}

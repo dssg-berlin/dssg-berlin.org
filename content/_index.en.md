@@ -1,3 +1,10 @@
+---
+menu:
+    main:
+        name: Home
+        weight: 1
+language: de
+---
 <div class="what-we-do w-100 bg-light-gray pa3">
     <h2 class="lh-title f-subheadline white pa1 pl2 pr2 bg-dssg-blue">
     Data Science for Social Good
@@ -18,7 +25,7 @@
                 <li class="f4 mv2">Meet other people doing good in the world</li>
             </ul>
 
-        <a class="pa3 br3 bg-dssg-blue white link dib" href="https://docs.google.com/forms/d/e/1FAIpQLSfkedtniSsT5p92e6D-iLXUoCYye2bU14GLV_fyrn1yBUBY6A/viewform">
+        <a class="pa3 br3 bg-dssg-blue white link dib" href="{{< relref path="volunteer" lang="de" >}}">
             Volunteer
         </a>
     </div>
@@ -32,7 +39,7 @@
                 <li class="mv2 f4">Realize a project with the support of our network</li>
             </ul>
 
-        <a class="pa3 br3 bg-dssg-blue white link dib" href="https://docs.google.com/forms/d/e/1FAIpQLSesQDC_0UFE9hhtadYNd64KR4E3uijNj9CDMCgK4WomRyRNjw/viewform">
+        <a class="pa3 br3 bg-dssg-blue white link dib" href="{{< relref path="apply" lang="de" >}}">
             Submit project
         </a>
     </div>

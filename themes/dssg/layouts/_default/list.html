@@ -1,25 +1,26 @@
-<!DOCTYPE html>
-
-<html lang="en">
-
-{{ partial "header.html" . }}
-
-<body class="w-100 sans-serif bg-white">
-
-    {{ partial "site-nav.html" . }}
+{{ define "main" }}
 
     <div class="w-100 bg-white pa4 bt b--light-gray">
 
         <h1>{{ .Title }}</h1>
 
-        <div class="measure-wide lh-copy f3">
+        <div class="measure-wide lh-copy f4">
             {{ .Content }}
+        </div>
+
+        <div class="measure-wide lh-copy f3">
+            
+                <ul>
+                    <!-- Ranges through content/post/*.md -->
+                    {{ range .Pages }}
+                        <li>
+                            <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
+                        </li>
+                    {{ end }}
+                </ul>
+            
         </div>
 
     </div>
 
-    {{ partial "footer.html" . }}
-
-</body>
-
-</html>
+{{ end }}

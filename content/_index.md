@@ -1,3 +1,9 @@
+---
+menu:
+    main:
+        name: Home
+        weight: 1
+---
 <div class="what-we-do w-100 bg-light-gray pa3">
     <h2 class="lh-title f-subheadline white pa1 pl2 pr2 bg-dssg-blue">
         Data Science for Social Good
@@ -18,7 +24,7 @@
                 <li class="f4">Triff andere Menschen, die Gutes tun</li>
             </ul>
 
-        <a class="pa3 br3 bg-dssg-blue white link dib" href="https://docs.google.com/forms/d/e/1FAIpQLSesQDC_0UFE9hhtadYNd64KR4E3uijNj9CDMCgK4WomRyRNjw/viewform">
+        <a class="pa3 br3 bg-dssg-blue white link dib" href="{{< ref "volunteer" >}}">
             Mitmachen
         </a>
     </div>
@@ -32,7 +38,7 @@
                 <li class="f4">Setzen Sie konkrete Projekte mit unserem Netzwerk um</li>
             </ul>
 
-        <a class="pa3 br3 bg-dssg-blue white link dib" href="https://docs.google.com/forms/d/e/1FAIpQLSesQDC_0UFE9hhtadYNd64KR4E3uijNj9CDMCgK4WomRyRNjw/viewform">
+        <a class="pa3 br3 bg-dssg-blue white link dib" href="{{< ref "apply" >}}">
             Projekt einreichen
         </a>
 

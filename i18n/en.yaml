@@ -20,10 +20,10 @@
   translation: Find us elsewhere
 
 - id: homepage_our_events
-  translation: See our coming events on eventbrite
+  translation: See our coming events on Eventbrite
 
 - id: homepage_our_content
-  translation: Read more about DSSG on Medium
+  translation: Our blog
 
 - id: footer_what_we_do
   translation: We help to make use of data by pairing non-profits with volunteer data scientists at community events, hackathons and on bespoke projects.

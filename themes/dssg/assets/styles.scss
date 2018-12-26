@@ -1,0 +1,52 @@
+$dssg-blue: rgba(0,166,248,.8);
+
+.site-nav {
+    a {
+        color: $dssg-blue;
+        font-weight: bold;
+        text-decoration: none;
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+    ul, li {
+        display: inline;
+        padding: 0;
+    }
+    ul {
+        &:not(:last-child) {
+            &::after {
+                content: " // ";
+            }
+        }
+    }
+    li {
+        list-style: none;
+        &:not(:last-child) {
+            &::after {
+                content: " / ";
+            }
+        }
+    }
+    .site-nav-item.active, .language.active {
+        color: black;
+        text-decoration: none;
+    }
+}
+
+.grayscale {
+    filter: grayscale(100%);
+}
+
+.what-we-do {
+    background: url(/images/front-page-pic-uncropped.jpg) no-repeat center center fixed;
+    background-size: cover;    
+}
+
+.bg-dssg-blue {
+background-color: rgba(0, 166, 248, 0.8)
+}
+
+.what-we-do h2, .what-we-do h3 {
+    text-shadow: 1px 1px  #777
+}

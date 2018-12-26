@@ -1,0 +1,16 @@
+<div id="who" class="w-100 pa4 center">
+    <h2>Team</h2>
+    <ul class="flex-ns flex-wrap list">
+        {{ range $.Site.Data.team.current }}
+            <li class="w-20 center ma3 tc">
+                {{ if (isset . "imgsrc") -}}
+                <img class="br-100 dib ba b--dark-blue" src='{{ .imgsrc }}'>
+                {{- else -}}
+                <img class="br-100 dib ba b--dark-blue grayscale" src='/images/bio-pics/default.100x100.png'>
+                {{- end }}
+                <p class="f4 mb2 mt2">{{ .name }}</p>
+                <p class="f5 ma1 gray">{{ .title }}</p>
+            </li>
+        {{ end }}
+    </ul>
+</div>

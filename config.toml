@@ -1,16 +1,20 @@
 baseURL = "http://dssg-berlin.org/"
-languageCode = "en-us"
+languageCode = "de-de"
 title = "DSSG Berlin"
 theme = "dssg"
 
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "de"
+
+sectionPagesMenu = "main"
 
 [languages]
 [languages.en]
-weight = 1
+languageName = "English"
+weight = 2
 copyright = "Creative Commons Attribution Share Alike 4.0"
 
 [languages.de]
+languageName = "Deutsch"
 copyright = "Creative Commons Attribution Share Alike 4.0"
 title = "DSSG Berlin"
-weight = 2
+weight = 1

@@ -6,10 +6,28 @@
       <a class="v-mid f1 link black" href="/">DSSG Berlin</a>
     </div>
 
-    <nav class="fr">
-      <a href="/">English</a> /
+
+    <nav class="fr site-nav">
+      {{ $currentPage := . }}
+      <ul id="site-nav-menu">
+        {{ range .Site.Menus.main }}
+        <li><a class="site-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a></li>
+        {{ end }}
+      </ul>
       
-      <a href="/de">Deutsch</a>
+      <ul id="site-nav-language-picker">
+      {{ if .Site.IsMultiLingual }}
+        {{ range .Site.Languages }}
+        {{ if eq . $.Site.Language }}
+          <li><a href="#" class="active language">{{ .LanguageName }}</a></li>
+        {{ else }}
+          {{ range $.Translations }}
+          <li><a href="{{ .Permalink }}" class="">{{ .Language.LanguageName }}</a></li>
+          {{ end }}
+        {{ end }}
+        {{ end }}
+      {{ end }}
+      </ul>
     </nav>
     
   </div>
