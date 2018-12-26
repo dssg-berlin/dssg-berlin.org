@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deutsch on DSSG Berlin</title>
-    <link>https://dssg-berlin.org/dssg-berlin.org/tags/deutsch/</link>
+    <link>http://new.dssg-berlin.org/tags/deutsch/</link>
     <description>Recent content in Deutsch on DSSG Berlin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language>
+    <language>en-us</language>
     <copyright>Creative Commons Attribution Share Alike 4.0</copyright>
     <lastBuildDate>Thu, 14 Apr 2016 08:57:05 +0000</lastBuildDate>
     
-	<atom:link href="https://dssg-berlin.org/dssg-berlin.org/tags/deutsch/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://new.dssg-berlin.org/tags/deutsch/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Data Dive Berlin 2015</title>
-      <link>https://dssg-berlin.org/dssg-berlin.org/blog/2016-04-14_data-dive-berlin-2015/</link>
+      <link>http://new.dssg-berlin.org/blog/2016-04-14_data-dive-berlin-2015/</link>
       <pubDate>Thu, 14 Apr 2016 08:57:05 +0000</pubDate>
       
-      <guid>https://dssg-berlin.org/dssg-berlin.org/blog/2016-04-14_data-dive-berlin-2015/</guid>
+      <guid>http://new.dssg-berlin.org/blog/2016-04-14_data-dive-berlin-2015/</guid>
       <description>Am 23.-25.10.2015 fand der erste DSSG Berlin Data Dive statt. Für ein Wochenende stand Zalandos Shuttle Innovation Lab ganz im Zeichen von Datenanalyse für das Gemeinwohl. Über 60 freiwillige DatenanalystInnen unterstützten unsere Non-Profit-Partner Jambo Bukoba, streetfootballworld und DataLook bei ihren Datenproblemen.
 Als wir im Januar 2015 die ersten DSSG Berlin Teamtreffen absolvierten, wussten wir noch nicht, ob wir für unser Vorhaben die passenden Partner finden würden. Zehn Monate später wissen wir: Was DataKind in New York, Dublin, Bangalore und anderen Städten macht, funktioniert auch in Deutschland.</description>
     </item>
     
     <item>
       <title>Warum Datenanalyse für das Gemeinwohl?</title>
-      <link>https://dssg-berlin.org/dssg-berlin.org/blog/2015-10-15_warum-datenanalyse-f%C3%BCr-das-gemeinwohl/</link>
+      <link>http://new.dssg-berlin.org/blog/2015-10-15_warum-datenanalyse-f%C3%BCr-das-gemeinwohl/</link>
       <pubDate>Thu, 15 Oct 2015 23:19:47 +0000</pubDate>
       
-      <guid>https://dssg-berlin.org/dssg-berlin.org/blog/2015-10-15_warum-datenanalyse-f%C3%BCr-das-gemeinwohl/</guid>
+      <guid>http://new.dssg-berlin.org/blog/2015-10-15_warum-datenanalyse-f%C3%BCr-das-gemeinwohl/</guid>
       <description>In einer Woche werden wir, Data Science for Social Good Berlin (DSSG Berlin), unseren ersten Data Dive veranstalten. Hierbei werden Freiwillige aus der Data- Science-Community Non-Profit-Organisationen (NPOs) mit Datenanalyse (Data Science) unterstützen. Wir eifern damit internationalen Vorbildern wie DataKind und DSSG Chicago nach, und sind damit auch in Deutschland nicht mehr die Einzigen mit einer solchen Idee; mit CorrelAid und den Data Animals stehen seit kurzem weitere Organisation in den Startlöchern, deren Fokus auf Datenanalyse für NPOs liegt.</description>
     </item>
     

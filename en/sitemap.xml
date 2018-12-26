@@ -3,88 +3,88 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://dssg-berlin.org/dssg-berlin.org/en/</loc>
+    <loc>http://new.dssg-berlin.org/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://dssg-berlin.org/dssg-berlin.org/"
+                href="http://new.dssg-berlin.org/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dssg-berlin.org/dssg-berlin.org/en/"
+                href="http://new.dssg-berlin.org/en/"
                 />
   </url>
   
   <url>
-    <loc>https://dssg-berlin.org/dssg-berlin.org/en/blog/</loc>
+    <loc>http://new.dssg-berlin.org/en/blog/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://dssg-berlin.org/dssg-berlin.org/blog/"
+                href="http://new.dssg-berlin.org/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dssg-berlin.org/dssg-berlin.org/en/blog/"
+                href="http://new.dssg-berlin.org/en/blog/"
                 />
   </url>
   
   <url>
-    <loc>https://dssg-berlin.org/dssg-berlin.org/en/categories/</loc>
+    <loc>http://new.dssg-berlin.org/en/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://dssg-berlin.org/dssg-berlin.org/categories/"
+                href="http://new.dssg-berlin.org/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dssg-berlin.org/dssg-berlin.org/en/categories/"
+                href="http://new.dssg-berlin.org/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://dssg-berlin.org/dssg-berlin.org/en/apply/</loc>
+    <loc>http://new.dssg-berlin.org/en/apply/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://dssg-berlin.org/dssg-berlin.org/apply/"
+                href="http://new.dssg-berlin.org/apply/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dssg-berlin.org/dssg-berlin.org/en/apply/"
+                href="http://new.dssg-berlin.org/en/apply/"
                 />
   </url>
   
   <url>
-    <loc>https://dssg-berlin.org/dssg-berlin.org/en/tags/</loc>
+    <loc>http://new.dssg-berlin.org/en/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://dssg-berlin.org/dssg-berlin.org/tags/"
+                href="http://new.dssg-berlin.org/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dssg-berlin.org/dssg-berlin.org/en/tags/"
+                href="http://new.dssg-berlin.org/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://dssg-berlin.org/dssg-berlin.org/en/volunteer/</loc>
+    <loc>http://new.dssg-berlin.org/en/volunteer/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://dssg-berlin.org/dssg-berlin.org/volunteer/"
+                href="http://new.dssg-berlin.org/volunteer/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dssg-berlin.org/dssg-berlin.org/en/volunteer/"
+                href="http://new.dssg-berlin.org/en/volunteer/"
                 />
   </url>
   

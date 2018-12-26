@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dssg Berlin on DSSG Berlin</title>
-    <link>https://dssg-berlin.org/dssg-berlin.org/tags/dssg-berlin/</link>
+    <link>http://new.dssg-berlin.org/tags/dssg-berlin/</link>
     <description>Recent content in Dssg Berlin on DSSG Berlin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language>
+    <language>en-us</language>
     <copyright>Creative Commons Attribution Share Alike 4.0</copyright>
     <lastBuildDate>Wed, 14 Mar 2018 14:38:52 +0000</lastBuildDate>
     
-	<atom:link href="https://dssg-berlin.org/dssg-berlin.org/tags/dssg-berlin/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://new.dssg-berlin.org/tags/dssg-berlin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Roll up, roll up! Data science Speed Dating at Co-up Berlin on March 22nd!</title>
-      <link>https://dssg-berlin.org/dssg-berlin.org/blog/2018-03-14_roll-up-roll-up-data-science-speed-dating-at-coup-berlin-on-march-22nd/</link>
+      <link>http://new.dssg-berlin.org/blog/2018-03-14_roll-up-roll-up-data-science-speed-dating-at-coup-berlin-on-march-22nd/</link>
       <pubDate>Wed, 14 Mar 2018 14:38:52 +0000</pubDate>
       
-      <guid>https://dssg-berlin.org/dssg-berlin.org/blog/2018-03-14_roll-up-roll-up-data-science-speed-dating-at-coup-berlin-on-march-22nd/</guid>
+      <guid>http://new.dssg-berlin.org/blog/2018-03-14_roll-up-roll-up-data-science-speed-dating-at-coup-berlin-on-march-22nd/</guid>
       <description>Last year, we tried out an event, Data Science Speed Dating, where we matched up non-profit organisations with volunteer data analysts and data scientists in a speed dating type of event.
 It seemed to go down well last time (read our write up here), so we’re doing our next one on **Thursday 22nd March 2018, **at co-up, everybody’s favourite nerd Berlin community space.
 Wait, why would I even go to this?</description>

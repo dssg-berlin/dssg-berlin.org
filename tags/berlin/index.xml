@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Berlin on DSSG Berlin</title>
-    <link>https://dssg-berlin.org/dssg-berlin.org/tags/berlin/</link>
+    <link>http://new.dssg-berlin.org/tags/berlin/</link>
     <description>Recent content in Berlin on DSSG Berlin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language>
+    <language>en-us</language>
     <copyright>Creative Commons Attribution Share Alike 4.0</copyright>
     <lastBuildDate>Thu, 15 Oct 2015 23:19:47 +0000</lastBuildDate>
     
-	<atom:link href="https://dssg-berlin.org/dssg-berlin.org/tags/berlin/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://new.dssg-berlin.org/tags/berlin/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Warum Datenanalyse für das Gemeinwohl?</title>
-      <link>https://dssg-berlin.org/dssg-berlin.org/blog/2015-10-15_warum-datenanalyse-f%C3%BCr-das-gemeinwohl/</link>
+      <link>http://new.dssg-berlin.org/blog/2015-10-15_warum-datenanalyse-f%C3%BCr-das-gemeinwohl/</link>
       <pubDate>Thu, 15 Oct 2015 23:19:47 +0000</pubDate>
       
-      <guid>https://dssg-berlin.org/dssg-berlin.org/blog/2015-10-15_warum-datenanalyse-f%C3%BCr-das-gemeinwohl/</guid>
+      <guid>http://new.dssg-berlin.org/blog/2015-10-15_warum-datenanalyse-f%C3%BCr-das-gemeinwohl/</guid>
       <description>In einer Woche werden wir, Data Science for Social Good Berlin (DSSG Berlin), unseren ersten Data Dive veranstalten. Hierbei werden Freiwillige aus der Data- Science-Community Non-Profit-Organisationen (NPOs) mit Datenanalyse (Data Science) unterstützen. Wir eifern damit internationalen Vorbildern wie DataKind und DSSG Chicago nach, und sind damit auch in Deutschland nicht mehr die Einzigen mit einer solchen Idee; mit CorrelAid und den Data Animals stehen seit kurzem weitere Organisation in den Startlöchern, deren Fokus auf Datenanalyse für NPOs liegt.</description>
     </item>
     

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Big Data on DSSG Berlin</title>
-    <link>https://dssg-berlin.org/dssg-berlin.org/tags/big-data/</link>
+    <link>http://new.dssg-berlin.org/tags/big-data/</link>
     <description>Recent content in Big Data on DSSG Berlin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language>
+    <language>en-us</language>
     <copyright>Creative Commons Attribution Share Alike 4.0</copyright>
     <lastBuildDate>Sat, 06 May 2017 15:41:03 +0000</lastBuildDate>
     
-	<atom:link href="https://dssg-berlin.org/dssg-berlin.org/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://new.dssg-berlin.org/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Data Analysis for Vocational Orientation and Cancer Knowledge Management</title>
-      <link>https://dssg-berlin.org/dssg-berlin.org/blog/2017-05-06_data-analysis-for-vocational-orientation-and-cancer-knowledge-management/</link>
+      <link>http://new.dssg-berlin.org/blog/2017-05-06_data-analysis-for-vocational-orientation-and-cancer-knowledge-management/</link>
       <pubDate>Sat, 06 May 2017 15:41:03 +0000</pubDate>
       
-      <guid>https://dssg-berlin.org/dssg-berlin.org/blog/2017-05-06_data-analysis-for-vocational-orientation-and-cancer-knowledge-management/</guid>
+      <guid>http://new.dssg-berlin.org/blog/2017-05-06_data-analysis-for-vocational-orientation-and-cancer-knowledge-management/</guid>
       <description>In March 2017, the second Data Science for Social Good Berlin Data Dive took place. This time, we brought together German Cancer Society, SchulePLUS and 40 excited data scientists to take a stab at real analytical challenges the non-profits are facing. (Find the German article here)
 SchulePLUS is a social business that aims to help make access to education and early career opportunities equally attainable for every child, and to foster creative and practice-oriented education.</description>
     </item>

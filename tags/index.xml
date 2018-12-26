@@ -2,139 +2,139 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on DSSG Berlin</title>
-    <link>https://dssg-berlin.org/dssg-berlin.org/tags/</link>
+    <link>http://new.dssg-berlin.org/tags/</link>
     <description>Recent content in Tags on DSSG Berlin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language>
+    <language>en-us</language>
     <copyright>Creative Commons Attribution Share Alike 4.0</copyright>
     <lastBuildDate>Thu, 15 Oct 2015 23:19:47 +0000</lastBuildDate>
     
-	<atom:link href="https://dssg-berlin.org/dssg-berlin.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://new.dssg-berlin.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Berlin</title>
-      <link>https://dssg-berlin.org/dssg-berlin.org/tags/berlin/</link>
+      <link>http://new.dssg-berlin.org/tags/berlin/</link>
       <pubDate>Thu, 15 Oct 2015 23:19:47 +0000</pubDate>
       
-      <guid>https://dssg-berlin.org/dssg-berlin.org/tags/berlin/</guid>
+      <guid>http://new.dssg-berlin.org/tags/berlin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Big Data</title>
-      <link>https://dssg-berlin.org/dssg-berlin.org/tags/big-data/</link>
+      <link>http://new.dssg-berlin.org/tags/big-data/</link>
       <pubDate>Sat, 06 May 2017 15:41:03 +0000</pubDate>
       
-      <guid>https://dssg-berlin.org/dssg-berlin.org/tags/big-data/</guid>
+      <guid>http://new.dssg-berlin.org/tags/big-data/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Case Study</title>
-      <link>https://dssg-berlin.org/dssg-berlin.org/tags/case-study/</link>
+      <link>http://new.dssg-berlin.org/tags/case-study/</link>
       <pubDate>Sun, 17 Jul 2016 11:48:53 +0000</pubDate>
       
-      <guid>https://dssg-berlin.org/dssg-berlin.org/tags/case-study/</guid>
+      <guid>http://new.dssg-berlin.org/tags/case-study/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Science</title>
-      <link>https://dssg-berlin.org/dssg-berlin.org/tags/data-science/</link>
+      <link>http://new.dssg-berlin.org/tags/data-science/</link>
       <pubDate>Wed, 14 Mar 2018 14:38:52 +0000</pubDate>
       
-      <guid>https://dssg-berlin.org/dssg-berlin.org/tags/data-science/</guid>
+      <guid>http://new.dssg-berlin.org/tags/data-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data for Good</title>
-      <link>https://dssg-berlin.org/dssg-berlin.org/tags/data-for-good/</link>
+      <link>http://new.dssg-berlin.org/tags/data-for-good/</link>
       <pubDate>Wed, 14 Feb 2018 13:57:51 +0000</pubDate>
       
-      <guid>https://dssg-berlin.org/dssg-berlin.org/tags/data-for-good/</guid>
+      <guid>http://new.dssg-berlin.org/tags/data-for-good/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deutsch</title>
-      <link>https://dssg-berlin.org/dssg-berlin.org/tags/deutsch/</link>
+      <link>http://new.dssg-berlin.org/tags/deutsch/</link>
       <pubDate>Thu, 14 Apr 2016 08:57:05 +0000</pubDate>
       
-      <guid>https://dssg-berlin.org/dssg-berlin.org/tags/deutsch/</guid>
+      <guid>http://new.dssg-berlin.org/tags/deutsch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dssg Berlin</title>
-      <link>https://dssg-berlin.org/dssg-berlin.org/tags/dssg-berlin/</link>
+      <link>http://new.dssg-berlin.org/tags/dssg-berlin/</link>
       <pubDate>Wed, 14 Mar 2018 14:38:52 +0000</pubDate>
       
-      <guid>https://dssg-berlin.org/dssg-berlin.org/tags/dssg-berlin/</guid>
+      <guid>http://new.dssg-berlin.org/tags/dssg-berlin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Education</title>
-      <link>https://dssg-berlin.org/dssg-berlin.org/tags/education/</link>
+      <link>http://new.dssg-berlin.org/tags/education/</link>
       <pubDate>Sun, 17 Jul 2016 11:48:53 +0000</pubDate>
       
-      <guid>https://dssg-berlin.org/dssg-berlin.org/tags/education/</guid>
+      <guid>http://new.dssg-berlin.org/tags/education/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fifa</title>
-      <link>https://dssg-berlin.org/dssg-berlin.org/tags/fifa/</link>
+      <link>http://new.dssg-berlin.org/tags/fifa/</link>
       <pubDate>Fri, 15 Jul 2016 10:05:19 +0000</pubDate>
       
-      <guid>https://dssg-berlin.org/dssg-berlin.org/tags/fifa/</guid>
+      <guid>http://new.dssg-berlin.org/tags/fifa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Football</title>
-      <link>https://dssg-berlin.org/dssg-berlin.org/tags/football/</link>
+      <link>http://new.dssg-berlin.org/tags/football/</link>
       <pubDate>Fri, 15 Jul 2016 10:05:19 +0000</pubDate>
       
-      <guid>https://dssg-berlin.org/dssg-berlin.org/tags/football/</guid>
+      <guid>http://new.dssg-berlin.org/tags/football/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nonprofit</title>
-      <link>https://dssg-berlin.org/dssg-berlin.org/tags/nonprofit/</link>
+      <link>http://new.dssg-berlin.org/tags/nonprofit/</link>
       <pubDate>Sun, 12 Mar 2017 19:29:59 +0000</pubDate>
       
-      <guid>https://dssg-berlin.org/dssg-berlin.org/tags/nonprofit/</guid>
+      <guid>http://new.dssg-berlin.org/tags/nonprofit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Social Good</title>
-      <link>https://dssg-berlin.org/dssg-berlin.org/tags/social-good/</link>
+      <link>http://new.dssg-berlin.org/tags/social-good/</link>
       <pubDate>Sun, 17 Jul 2016 11:48:53 +0000</pubDate>
       
-      <guid>https://dssg-berlin.org/dssg-berlin.org/tags/social-good/</guid>
+      <guid>http://new.dssg-berlin.org/tags/social-good/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tanzania</title>
-      <link>https://dssg-berlin.org/dssg-berlin.org/tags/tanzania/</link>
+      <link>http://new.dssg-berlin.org/tags/tanzania/</link>
       <pubDate>Sun, 17 Jul 2016 11:48:53 +0000</pubDate>
       
-      <guid>https://dssg-berlin.org/dssg-berlin.org/tags/tanzania/</guid>
+      <guid>http://new.dssg-berlin.org/tags/tanzania/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Volunteering</title>
-      <link>https://dssg-berlin.org/dssg-berlin.org/tags/volunteering/</link>
+      <link>http://new.dssg-berlin.org/tags/volunteering/</link>
       <pubDate>Mon, 20 Feb 2017 16:18:12 +0000</pubDate>
       
-      <guid>https://dssg-berlin.org/dssg-berlin.org/tags/volunteering/</guid>
+      <guid>http://new.dssg-berlin.org/tags/volunteering/</guid>
       <description></description>
     </item>
     
