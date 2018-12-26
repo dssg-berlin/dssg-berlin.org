@@ -6,6 +6,8 @@ theme = "dssg"
 DefaultContentLanguage = "de"
 
 sectionPagesMenu = "main"
+RelativeURLs = true
+CanonifyURLs = true
 
 [languages]
 [languages.en]
