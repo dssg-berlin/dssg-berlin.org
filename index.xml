@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Creative Commons Attribution Share Alike 4.0</copyright>
-    <lastBuildDate>Wed, 14 Mar 2018 14:38:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Dec 2018 15:50:06 +0100</lastBuildDate>
     
 	<atom:link href="http://new.dssg-berlin.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>KI für die Zivilgesellschaft - Machen statt Reden</title>
+      <link>http://new.dssg-berlin.org/blog/einfach-machen/</link>
+      <pubDate>Thu, 27 Dec 2018 15:50:06 +0100</pubDate>
+      
+      <guid>http://new.dssg-berlin.org/blog/einfach-machen/</guid>
+      <description>Künstliche Intelligenz ist gerade in aller Munde und Expert*innen diskutieren fast wöchentlich auf Panels, ob man Algorithmen regulieren sollte und ob man einen Algorithmen-TÜV braucht. Bekannte Denkfabriken setzen Programme mit Namen wie &amp;quot;Ethik der Algorithmen&amp;quot; und &amp;quot;Algorithmen fürs Gemeinwohl&amp;quot; auf und publizieren Positionspapier um Positionspapier. All diese Initiativen sind wichtig, aber obwohl sie die Partizipation der Zivilgesellschaft fordern und fördern wollen, bekomme ich manchmal das Gefühl, dass die Debatte genau an dieser vorbei geht.</description>
+    </item>
+    
+    <item>
+      <title>Datenanalyse für den guten Zweck</title>
+      <link>http://new.dssg-berlin.org/blog/datenanalyse-fuer-den-guten-zweck/</link>
+      <pubDate>Tue, 27 Nov 2018 15:58:46 +0100</pubDate>
+      
+      <guid>http://new.dssg-berlin.org/blog/datenanalyse-fuer-den-guten-zweck/</guid>
+      <description>Data Science for Social Good Berlin unterstützt soziale Organisationen bei ihrer Arbeit mithilfe von &amp;quot;Data Science&amp;quot;. Uns fällt dabei immer wieder auf, dass soziale Organisationen zwar Begriffe wie &amp;quot;Künstliche Intelligenz&amp;quot;(KI), &amp;quot;Big Data&amp;quot; und &amp;quot;Data Science&amp;quot; kennen und schon einzelne Beispiele gesehen haben. Es fehlt ihnen aber oft an Orientierung, für welche Arten von Problemen Data-Science-Methoden geeignet sind.
+Darum haben wir die Vielzahl an Beispielen, die es bereits gibt, anhand der Problemarten kategorisiert.</description>
+    </item>
     
     <item>
       <title>Roll up, roll up! Data science Speed Dating at Co-up Berlin on March 22nd!</title>
@@ -151,7 +170,8 @@ We may use your email address to contact you about your use of the site (for exa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://new.dssg-berlin.org/apply/</guid>
-      <description>  </description>
+      <description>Wenn Sie denken, dass wir ihnen helfen können, melden Sie sich gerne bei uns. Lesen Sie in unserem Blogartikel in welchen Bereichen wir helfen können.
+  </description>
     </item>
     
     <item>
