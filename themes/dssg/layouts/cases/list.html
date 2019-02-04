@@ -1,0 +1,26 @@
+{{ define "main" }}
+
+    <div class="w-100 bg-white pa4 bt b--light-gray">
+
+        <h1>{{ .Title }}</h1>
+
+        <div class="measure-wide lh-copy f4">
+            {{ .Content }}
+        </div>
+
+        <div class="measure-wide lh-copy f3">
+
+                <ul>
+                    <!-- Ranges through content/post/*.md -->
+                    {{ range .Pages }}
+                        <li>
+                            <a href="{{.Permalink}}">{{.Title}}</a>
+                        </li>
+                    {{ end }}
+                </ul>
+
+        </div>
+
+    </div>
+
+{{ end }}
