@@ -164,6 +164,16 @@ Als wir im Januar 2015 die ersten DSSG Berlin Teamtreffen absolvierten, wussten 
     </item>
     
     <item>
+      <title>Glossar</title>
+      <link>http://new.dssg-berlin.org/glossary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://new.dssg-berlin.org/glossary/</guid>
+      <description>Data Science ist das Ableiten von Erkenntnissen aus Daten. […] Es werden Techniken und Theorien aus vielen Bereichen der Mathematik, Statistik, Informatik, Maschinellem Lernen […] verwendet, aus denen praxisnahe und benutzerfreundliche Vorhersagemodelle und Visualisierungen entwickelt werden. (http://en.wikipedia.org/wiki/Data_science)
+Data Scientists (DatenanalystInnen) nutzen ihre Datenverarbeitungs- und Analysekenntnisse um reichhaltige Datenquellen zu erschließen und zu interpretieren. […] Sie produzieren Visualisierungen die dabei helfen, Daten zu verstehen, und mathematische Vorhersagemodelle um aus den Daten wirkungsorientierte Entscheidungen abzuleiten.</description>
+    </item>
+    
+    <item>
       <title>Impressum</title>
       <link>http://new.dssg-berlin.org/impressum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
