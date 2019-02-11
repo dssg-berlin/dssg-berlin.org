@@ -31,6 +31,8 @@ current:
     name: Dania Meira
   olga:
     name: Olga Zakharova
+    imgsrc: /images/bio-pics/olga.zakharova.100x100.png
+    title: Data Scientist
   david:
     name: David	Hinrichs
     imgsrc: /images/bio-pics/david.hinrichs.100x100.jpg
