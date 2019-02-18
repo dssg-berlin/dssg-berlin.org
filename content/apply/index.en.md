@@ -6,31 +6,56 @@ menu:
         weight: 3
 ---
 
-We want to help you to unleash power of your data. Depending on your *data maturity* we have different formats to help you.
+We help NGOs to make use of their data by connecting them with volunteer data scientists and analysts.
 
-## What's your situation?
+- Learn how to use data effectively
+- Find out how to use data science for your benefit
+- Realize a project with the support of our network
 
-### We have heard about this Data thing and have the feeling we might need it, but no concrete Projects yet...
+## Where we can support
 
-Come to our *Data Science Office* hours!
+<div id="apply--what">
+    <ul>
+        <li>
+            <a href="{{< ref "datenanalyse-fuer-den-guten-zweck#zielgruppen-verstehen" >}}">
+                <i class="fa fa-chart-pie"></i>
+                <p>Understand target groups</p>
+            </a>
+        </li>
+        <li>
+            <a href="{{< ref "datenanalyse-fuer-den-guten-zweck#automatisierung-von-manuellen-prozessen" >}}">
+                <i  class="fa fa-cogs"></i>
+                <p>Automation of manual processes</p>
+            </a>
+        </li>
+        <li>
+            <a href="{{< ref "datenanalyse-fuer-den-guten-zweck#bedarfsanalyse-vorhersage" >}}">
+                <i  class="fa fa-chart-line"></i>
+                <p>Analysis/prediction of demand</p>
+            </a>
+        </li>
+        <li>
+            <a href="{{< ref "datenanalyse-fuer-den-guten-zweck#wirkungsanalyse" >}}">
+                <i  class="fa fa-balance-scale"></i>
+                <p>Impact analysis</p>
+            </a>
+        </li>
+        <li>
+            <a href="{{< ref "datenanalyse-fuer-den-guten-zweck#frühwarnsysteme" >}}">
+                <i  class="fa fa-bolt"></i>
+                <p>Early warning systems</p>
+            </a>
+        </li>
+    </ul>
+</div>
 
-The data science office hour is...
+Lesen Sie [hier mehr]({{< ref "datenanalyse-fuer-den-guten-zweck" >}})!
 
-### We have some project ideas and think Data might help - we'd like to bouce around some ideas
+## Did this spark your interest?
 
-Come to our Data Science Speed Dating
-
-In a data science speed dating ...
-
-### We have a Dataset and we need answers but don't have the skills
-
-Come to our *Datathon*
-
-During a Datathon...
-
-"We can’t assume a Datathon to produce a full fledged solution. What we are aiming for are actionable insights in the form of a short report or proof of concept state software that is reasonably documented so that it can be used und picked up for extension. DSSG Berlin can not provide extensive support beyond that but will encourage its volunteers to continue supporting the NPOs."
+Contact us at [contact@dssg-berlin.org](mailto:contact@dssg-berlin.org).
 
 
-<aside id="apply-form">
+<aside id="apply-form" style="display:none;">
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrNeLV2jQaBuA4uf?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="911" style="background: transparent; border: 1px solid #ccc;"></iframe>
 </aside>
