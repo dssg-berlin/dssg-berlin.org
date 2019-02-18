@@ -5,7 +5,7 @@ theme = "dssg"
 
 DefaultContentLanguage = "de"
 
-sectionPagesMenu = "main"
+sectionPagesMenu = "sections"
 
 [languages]
 [languages.en]
