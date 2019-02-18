@@ -2,7 +2,7 @@
 title: Volunteer
 menu:
     main:
-        name: Contribute
+        name: Volunteer
         weight: 4
 ---
 
