@@ -6,8 +6,8 @@ menu:
     weight: 4
 
 ---
-Bitte fülle das Folumar aus... Jetzt.
+## Mitmachen
+Egal ob du eine super Datenwissenschaftlerin bist, oder eher ein Organisationstalent, dein Beitrag macht einen Unterschied. Engagiere dich entweder durch eines unserer NGO-Formate, oder direkt bei DSSG.
 
-<aside id="volunteer-form">
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrKOUcWWo5jrapqE?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="971" style="background: transparent; border: 1px solid #ccc;"></iframe>
-</aside>
+## Werde Volunteer
+Bitte schreib' uns eine E-Mail an <a href="mailto:volunteer@dssg-berlin.org">volunteer@dssg-berlin.org</a> und erzähl' uns ein bisschen über dich.
