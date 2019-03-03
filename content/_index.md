@@ -19,10 +19,15 @@ menu:
         <h2>Für Datenprofis</h2>
 
             <ul>
-                <li class="f4">Nutze deine Fähigkeiten und gib zurück</li>
-                <li class="f4">Entwickele neue Fähigkeiten in sinnvollen Projekten</li>
-                <li class="f4">Triff andere Menschen, die Gutes tun</li>
+                <li class="mv2 f4">Nutze deine Fähigkeiten und gib zurück</li>
+                <li class="mv2 f4">Entwickele neue Fähigkeiten in sinnvollen Projekten</li>
+                <li class="mv2 f4">Triff andere Menschen, die Gutes tun</li>
             </ul>
+
+            Erfahre mehr in diesen Slidedecks <a href="/presentations/dssg-ds.pdf">für Freiwillige</a>.
+            <br /> <br />
+
+
 
         <a class="pa3 br3 bg-dssg-blue white link dib" href="{{< ref "volunteer" >}}">
             Mitmachen
@@ -33,10 +38,13 @@ menu:
         <h2>Für gemeinnützige Organisationen</h2>
 
             <ul>
-                <li class="f4">Lernen Sie Daten effektiv nutzen können</li>
-                <li class="f4">Erfahren Sie, wie Sie Data Science sinnvoll einsetzen</li>
-                <li class="f4">Setzen Sie konkrete Projekte mit unserem Netzwerk um</li>
+                <li class="mv2 f4">Lernen Sie Daten effektiv nutzen können</li>
+                <li class="mv2 f4">Erfahren Sie, wie Sie Data Science sinnvoll einsetzen</li>
+                <li class="mv2 f4">Setzen Sie konkrete Projekte mit unserem Netzwerk um</li>
             </ul>
+
+            Erfahre mehr in diesen Slidedecks <a href="/presentations/dssg-ngo.pdf">für NGOs</a>.
+            <br /> <br />
 
         <a class="pa3 br3 bg-dssg-blue white link dib" href="{{< ref "apply" >}}">
             Projekt einreichen
