@@ -8,8 +8,8 @@ menu:
 
 Wir helfen gemeinnützigen Organisationen Daten zu nutzen indem wir sie mit Data Scientists und AnalystInnen vernetzen.
 
-- Lernen Sie Daten effektiv nutzen können
-- Erfahren Sie, wie Sie Data Science sinnvoll einsetzen
+- Lernen Sie wie Sie Daten effektiv nutzen können
+- Erfahren Sie wie Sie Data Science sinnvoll einsetzen
 - Setzen Sie konkrete Projekte mit unserem Netzwerk um
 
 ## Wo wir unterstützen können
