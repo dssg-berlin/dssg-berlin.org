@@ -21,26 +21,29 @@
       </ul>
     </div>
 
-    <div class="w-25">
-
-      <h2>Legal</h2>
-      <ul class="list pl1">
+    {{ range .Site.Menus.footer }}
+      {{ if .HasChildren }}
+      <div class="w-25">
+        <h2>{{ .Name }}</h2>
+        <ul class="list pl1">
+          {{ range .Children }}
+          <li>
+            <a class="white link" href="{{ .URL }}">
+                {{ .Pre }}
+                {{ .Name }}
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ else }}
         <li>
-          <a class="white link" href="/impressum">Impressum</a>
+            <a href="{{ .URL }}">
+                <span>{{ .Name }}</span>
+            </a>
         </li>
-      </ul>
+      {{ end }}
+    {{ end }}
 
-    </div>
-
-    <div class="w-25">
-
-      <h2>Weiteres</h2>
-      <ul class="list pl1">
-        <li>
-          <a class="white link" href="/glossary">Glossar</a>
-        </li>
-      </ul>
-
-    </div>
   </div>
 </footer>

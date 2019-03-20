@@ -18,3 +18,27 @@ languageName = "Deutsch"
 copyright = "Creative Commons Attribution Share Alike 4.0"
 title = "DSSG Berlin"
 weight = 1
+
+[[languages.en.menu.footer]]
+identifier = "legal"
+name   = "Legal"
+url    = "#"
+weight = 1
+
+[[languages.en.menu.footer]]
+identifier = "other"
+name   = "Other"
+url    = "#"
+weight = 2
+
+[[languages.de.menu.footer]]
+identifier = "legal"
+name   = "Rechtliches"
+url    = "#"
+weight = 1
+
+[[languages.de.menu.footer]]
+identifier = "other"
+name   = "Weiteres"
+url    = "#"
+weight = 2

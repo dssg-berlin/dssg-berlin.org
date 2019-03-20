@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Impressum
+title: Imprint
 menu:
     footer:
         parent: legal
