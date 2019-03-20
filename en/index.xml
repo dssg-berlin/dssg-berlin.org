@@ -23,6 +23,27 @@ Darum haben wir die Vielzahl an Beispielen, die es bereits gibt, anhand der Prob
     </item>
     
     <item>
+      <title>Glossary</title>
+      <link>https://dssg-berlin.org/en/glossary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dssg-berlin.org/en/glossary/</guid>
+      <description>Data Science ist das Ableiten von Erkenntnissen aus Daten. […] Es werden Techniken und Theorien aus vielen Bereichen der Mathematik, Statistik, Informatik, Maschinellem Lernen […] verwendet, aus denen praxisnahe und benutzerfreundliche Vorhersagemodelle und Visualisierungen entwickelt werden. (http://en.wikipedia.org/wiki/Data_science)
+Data Scientists (DatenanalystInnen) nutzen ihre Datenverarbeitungs- und Analysekenntnisse um reichhaltige Datenquellen zu erschließen und zu interpretieren. […] Sie produzieren Visualisierungen die dabei helfen, Daten zu verstehen, und mathematische Vorhersagemodelle um aus den Daten wirkungsorientierte Entscheidungen abzuleiten.</description>
+    </item>
+    
+    <item>
+      <title>Imprint</title>
+      <link>https://dssg-berlin.org/en/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://dssg-berlin.org/en/impressum/</guid>
+      <description>Privacy We make the following promises about your personal information as a user of the site:
+When you correspond with DSSG Berlin via our email address, or sign up for our newsletter, we keep your contact information stored for use by the DSSG organising team.
+We may use your email address to contact you about your use of the site (for example, to ask for feedback) or with occasional announcements about our activities, via our newsletter.</description>
+    </item>
+    
+    <item>
       <title>Volunteer</title>
       <link>https://dssg-berlin.org/en/volunteer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

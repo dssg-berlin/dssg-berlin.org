@@ -209,10 +209,30 @@
   
   <url>
     <loc>https://dssg-berlin.org/glossary/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dssg-berlin.org/en/glossary/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://dssg-berlin.org/glossary/"
+                />
   </url>
   
   <url>
     <loc>https://dssg-berlin.org/impressum/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dssg-berlin.org/en/impressum/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://dssg-berlin.org/impressum/"
+                />
   </url>
   
   <url>
