@@ -28,7 +28,7 @@ language: de
             Find more about voluntary work in <a href="/presentations/dssg-ds.pdf">the presentation</a>.
             <br /> <br />
 
-        <a class="pa3 br3 bg-dssg-blue white link dib" href="{{< relref path="volunteer" lang="de" >}}">
+        <a class="pa3 br3 bg-dssg-blue white link dib" href="{{< ref path="volunteer" >}}">
             Volunteer
         </a>
     </div>
@@ -45,7 +45,7 @@ language: de
             Find more about NGOs in <a href="/presentations/dssg-ngo.pdf">the presentation</a>.
             <br /> <br />
 
-        <a class="pa3 br3 bg-dssg-blue white link dib" href="{{< relref path="apply" lang="de" >}}">
+        <a class="pa3 br3 bg-dssg-blue white link dib" href="{{< ref path="apply" >}}">
             Submit project
         </a>
     </div>
