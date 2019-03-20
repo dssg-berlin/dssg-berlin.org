@@ -49,7 +49,7 @@ We help NGOs to make use of their data by connecting them with volunteer data sc
     </ul>
 </div>
 
-Learn[more]({{<a ref "datenanalyse-fuer-den-guten-zweck">}})! (Currently only in German.)
+Learn [more]({{< ref "datenanalyse-fuer-den-guten-zweck">}})! (Currently only in German.)
 
 ## Does this spark your interest?
 
