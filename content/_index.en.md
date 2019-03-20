@@ -25,10 +25,10 @@ language: de
                 <li class="mv2 f4">Meet other people doing good in the world</li>
             </ul>
 
-            Find more about voluntary work in <a href="/presentations/dssg-ds.pdf">the presentation</a>.
+            Find more about voluntary work with DSSG in <a href="/presentations/dssg-ds.pdf">this presentation</a>.
             <br /> <br />
 
-        <a class="pa3 br3 bg-dssg-blue white link dib" href="{{< relref path="volunteer" lang="de" >}}">
+        <a class="pa3 br3 bg-dssg-blue white link dib" href="{{< relref path="volunteer" lang="en" >}}">
             Volunteer
         </a>
     </div>
@@ -42,10 +42,10 @@ language: de
                 <li class="mv2 f4">Realize a project with the support of our network</li>
             </ul>
 
-            Find more about NGOs in <a href="/presentations/dssg-ngo.pdf">the presentation</a>.
+            Find more about our work with NGOs in <a href="/presentations/dssg-ngo.pdf">the presentation</a>(German).
             <br /> <br />
 
-        <a class="pa3 br3 bg-dssg-blue white link dib" href="{{< relref path="apply" lang="de" >}}">
+        <a class="pa3 br3 bg-dssg-blue white link dib" href="{{< relref path="apply" lang="en" >}}">
             Submit project
         </a>
     </div>
