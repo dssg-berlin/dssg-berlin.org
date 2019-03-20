@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Glossar
+title: Glossary
 menu:
     footer:
         parent: other
