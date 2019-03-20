@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Case Studies on DSSG Berlin</title>
-    <link>http://new.dssg-berlin.org/cases/</link>
+    <link>https://dssg-berlin.org/cases/</link>
     <description>Recent content in Case Studies on DSSG Berlin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Creative Commons Attribution Share Alike 4.0</copyright>
     <lastBuildDate>Thu, 27 Apr 2017 12:37:39 +0000</lastBuildDate>
     
-	<atom:link href="http://new.dssg-berlin.org/cases/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dssg-berlin.org/cases/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Datenanalyse für berufliche Orientierung und Krebs-Wissensmanagement</title>
-      <link>http://new.dssg-berlin.org/cases/2017-04-27_datenanalyse-f%C3%BCr-berufliche-orientierung-und-krebswissensmanagement/</link>
+      <link>https://dssg-berlin.org/cases/2017-04-27_datenanalyse-f%C3%BCr-berufliche-orientierung-und-krebswissensmanagement/</link>
       <pubDate>Thu, 27 Apr 2017 12:37:39 +0000</pubDate>
       
-      <guid>http://new.dssg-berlin.org/cases/2017-04-27_datenanalyse-f%C3%BCr-berufliche-orientierung-und-krebswissensmanagement/</guid>
+      <guid>https://dssg-berlin.org/cases/2017-04-27_datenanalyse-f%C3%BCr-berufliche-orientierung-und-krebswissensmanagement/</guid>
       <description>Ein Rückblick auf den zweiten DSSG Berlin Data Dive Vom 17.-19. März fand in Berlin der zweite Data Dive von Data Science for Social Good Berlin statt. Mehr als 30 freiwillige DatenanalystInnen verbrachten das Wochenende, um unseren Partnern SchulePlus und der Deutschen Krebsgesellschaft zu helfen. In den Räumen der BMW Stiftung wurde modelliert, visualisiert und an Lösungen gearbeitet bis Rechner und Köpfe rauchten.
 SchulePlus / Schülerpraktium.de Angebot und Nachfrage verstehen mit Google Analytics, Adwords Das Sozialunternehmen SchulePLUS will mit dem Portal https://www.</description>
     </item>

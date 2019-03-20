@@ -2,42 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DSSG Berlin</title>
-    <link>http://new.dssg-berlin.org/en/</link>
+    <link>https://dssg-berlin.org/en/</link>
     <description>Recent content on DSSG Berlin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Creative Commons Attribution Share Alike 4.0</copyright>
     <lastBuildDate>Tue, 27 Nov 2018 15:58:46 +0100</lastBuildDate>
     
-	<atom:link href="http://new.dssg-berlin.org/en/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dssg-berlin.org/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Datenanalyse für den guten Zweck</title>
-      <link>http://new.dssg-berlin.org/en/blog/datenanalyse-fuer-den-guten-zweck/</link>
+      <link>https://dssg-berlin.org/en/blog/datenanalyse-fuer-den-guten-zweck/</link>
       <pubDate>Tue, 27 Nov 2018 15:58:46 +0100</pubDate>
       
-      <guid>http://new.dssg-berlin.org/en/blog/datenanalyse-fuer-den-guten-zweck/</guid>
+      <guid>https://dssg-berlin.org/en/blog/datenanalyse-fuer-den-guten-zweck/</guid>
       <description>Data Science for Social Good Berlin unterstützt soziale Organisationen bei ihrer Arbeit mithilfe von &amp;quot;Data Science&amp;quot;. Uns fällt dabei immer wieder auf, dass soziale Organisationen zwar Begriffe wie &amp;quot;Künstliche Intelligenz&amp;quot;(KI), &amp;quot;Big Data&amp;quot; und &amp;quot;Data Science&amp;quot; kennen und schon einzelne Beispiele gesehen haben. Es fehlt ihnen aber oft an Orientierung, für welche Arten von Problemen Data-Science-Methoden geeignet sind.
 Darum haben wir die Vielzahl an Beispielen, die es bereits gibt, anhand der Problemarten kategorisiert.</description>
     </item>
     
     <item>
       <title>Volunteer</title>
-      <link>http://new.dssg-berlin.org/en/volunteer/</link>
+      <link>https://dssg-berlin.org/en/volunteer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://new.dssg-berlin.org/en/volunteer/</guid>
+      <guid>https://dssg-berlin.org/en/volunteer/</guid>
       <description>Being a volunteer with DSSG Whether you&amp;rsquo;re a great data scientist, or a great organiser, your contribution makes a difference. Volunteer either at our NGO-focused events or directly at DSSG.
 Become a volunteer Please send an email to volunteer@dssg-berlin.org and tell us a little bit about yourself.</description>
     </item>
     
     <item>
       <title>Work with us / Submit a project</title>
-      <link>http://new.dssg-berlin.org/en/apply/</link>
+      <link>https://dssg-berlin.org/en/apply/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://new.dssg-berlin.org/en/apply/</guid>
+      <guid>https://dssg-berlin.org/en/apply/</guid>
       <description>We help NGOs to make use of their data by connecting them with volunteer data scientists and analysts.
  Learn how to use data effectively Find out how to use data science for your benefit Realize a project with the support of our network  Where we can support    Understand target groups
     Automation of manual processes

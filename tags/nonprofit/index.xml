@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nonprofit on DSSG Berlin</title>
-    <link>http://new.dssg-berlin.org/tags/nonprofit/</link>
+    <link>https://dssg-berlin.org/tags/nonprofit/</link>
     <description>Recent content in Nonprofit on DSSG Berlin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Creative Commons Attribution Share Alike 4.0</copyright>
     <lastBuildDate>Sun, 12 Mar 2017 19:29:59 +0000</lastBuildDate>
     
-	<atom:link href="http://new.dssg-berlin.org/tags/nonprofit/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dssg-berlin.org/tags/nonprofit/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>DSSG Berlin Data Dive März 2017</title>
-      <link>http://new.dssg-berlin.org/blog/2017-03-12_dssg-berlin-data-dive-m%C3%A4rz-2017/</link>
+      <link>https://dssg-berlin.org/blog/2017-03-12_dssg-berlin-data-dive-m%C3%A4rz-2017/</link>
       <pubDate>Sun, 12 Mar 2017 19:29:59 +0000</pubDate>
       
-      <guid>http://new.dssg-berlin.org/blog/2017-03-12_dssg-berlin-data-dive-m%C3%A4rz-2017/</guid>
+      <guid>https://dssg-berlin.org/blog/2017-03-12_dssg-berlin-data-dive-m%C3%A4rz-2017/</guid>
       <description>Einladung zu den Abschlusspräsentationen am 19.3.2017 in der BMW Stiftung Herbert Quandt Abschlusspräsentationen beim letzten DSSG Berlin Data Dive
 DSSG Berlin in Zusammenarbeit mit Proboneo veranstaltet vom 17. — 19.03.2017 ihren zweiten Data Dive in Berlin.
 Ein Data Dive (/ˈdeɪtə ˈdʌɪv/) ist ein Event bei dem neugierige DatenanalysteInnen (auch: Data Scientists) und gemeinnützige Organisationen ein Wochenende lang gemeinsam an datenbasierten Problemstellungen der Organisationen arbeiten. Durch diese einzigartige Mischung aus Menschen entstehen Analysen, Modelle und Visualisierungen, welche die Non-Profits auf dem Weg zu dateninformierten Entscheidungen leiten können.</description>
@@ -25,10 +25,10 @@ Ein Data Dive (/ˈdeɪtə ˈdʌɪv/) ist ein Event bei dem neugierige Datenanaly
     
     <item>
       <title>DSSG Berlin Data Dive March 2017</title>
-      <link>http://new.dssg-berlin.org/blog/2017-02-20_dssg-berlin-data-dive-march-2017/</link>
+      <link>https://dssg-berlin.org/blog/2017-02-20_dssg-berlin-data-dive-march-2017/</link>
       <pubDate>Mon, 20 Feb 2017 16:18:12 +0000</pubDate>
       
-      <guid>http://new.dssg-berlin.org/blog/2017-02-20_dssg-berlin-data-dive-march-2017/</guid>
+      <guid>https://dssg-berlin.org/blog/2017-02-20_dssg-berlin-data-dive-march-2017/</guid>
       <description>Data Science for Social Good Berlin in collaboration with Proboneo would like to invite you to our second Data Dive on March 17–19 at BMW Foundation Herbert Quandt near Berlin Hauptbahnhof.
 Register at: https://www.eventbrite.de/e/dssg-berlin-data-dive-march-2017-tickets-32164307309
 Scene from our last Data Dive in 2015

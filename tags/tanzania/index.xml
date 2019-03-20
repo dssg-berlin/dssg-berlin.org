@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tanzania on DSSG Berlin</title>
-    <link>http://new.dssg-berlin.org/tags/tanzania/</link>
+    <link>https://dssg-berlin.org/tags/tanzania/</link>
     <description>Recent content in Tanzania on DSSG Berlin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Creative Commons Attribution Share Alike 4.0</copyright>
     <lastBuildDate>Sun, 17 Jul 2016 11:48:53 +0000</lastBuildDate>
     
-	<atom:link href="http://new.dssg-berlin.org/tags/tanzania/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dssg-berlin.org/tags/tanzania/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Data Dive Fallstudie: Belege für Effektivität der Arbeit von Jambo Bukoba in Tansania</title>
-      <link>http://new.dssg-berlin.org/blog/2016-07-17_data-dive-fallstudie-belege-f%C3%BCr-effektivit%C3%A4t-der-arbeit-von-jambo-bukoba-in-tansania/</link>
+      <link>https://dssg-berlin.org/blog/2016-07-17_data-dive-fallstudie-belege-f%C3%BCr-effektivit%C3%A4t-der-arbeit-von-jambo-bukoba-in-tansania/</link>
       <pubDate>Sun, 17 Jul 2016 11:48:53 +0000</pubDate>
       
-      <guid>http://new.dssg-berlin.org/blog/2016-07-17_data-dive-fallstudie-belege-f%C3%BCr-effektivit%C3%A4t-der-arbeit-von-jambo-bukoba-in-tansania/</guid>
+      <guid>https://dssg-berlin.org/blog/2016-07-17_data-dive-fallstudie-belege-f%C3%BCr-effektivit%C3%A4t-der-arbeit-von-jambo-bukoba-in-tansania/</guid>
       <description>Im Rahmen des Data Dive 2015, organisiert durch Data Science for Social Good (DSSG) Berlin, beschäftigten sich freiwillige DatananalystInnen aus Berliner Startups und Hochschulen mit der Evaluation der gemeinnützigen Arbeit von Jambo Bukoba in Tansania. Es konnte gezeigt werden, dass das sportliche Förderprogramm von Jambo Bukoba sich auch in verbesserten schulischen Leistungen an den teilnehmenden Schulen niederschlägt, insbesondere bei Mädchen. Als DatenbotschafterInnen begleiteten die Data Animals das Projekt bereits im Vorfeld und bereiteten die Ergebnisse im Anschluss umfassend auf (Report von Data Animals in englischer Sprache).</description>
     </item>
     
