@@ -17,31 +17,31 @@ We help NGOs to make use of their data by connecting them with volunteer data sc
 <div id="apply--what">
     <ul>
         <li>
-            <a href="{{< ref "datenanalyse-fuer-den-guten-zweck#zielgruppen-verstehen" >}}">
+            <a href="{{< ref "datenanalyse-fuer-den-guten-zweck#zielgruppen-verstehen" lang="en">}}">
                 <i class="fa fa-chart-pie"></i>
                 <p>Understand target groups</p>
             </a>
         </li>
         <li>
-            <a href="{{< ref "datenanalyse-fuer-den-guten-zweck#automatisierung-von-manuellen-prozessen" >}}">
+            <a href="{{< ref "datenanalyse-fuer-den-guten-zweck#automatisierung-von-manuellen-prozessen" lang="en">}}">
                 <i  class="fa fa-cogs"></i>
                 <p>Automation of manual processes</p>
             </a>
         </li>
         <li>
-            <a href="{{< ref "datenanalyse-fuer-den-guten-zweck#bedarfsanalyse-vorhersage" >}}">
+            <a href="{{< ref "datenanalyse-fuer-den-guten-zweck#bedarfsanalyse-vorhersage" lang="en">}}">
                 <i  class="fa fa-chart-line"></i>
                 <p>Analysis/prediction of demand</p>
             </a>
         </li>
         <li>
-            <a href="{{< ref "datenanalyse-fuer-den-guten-zweck#wirkungsanalyse" >}}">
+            <a href="{{< ref "datenanalyse-fuer-den-guten-zweck#wirkungsanalyse" lang="en">}}">
                 <i  class="fa fa-balance-scale"></i>
                 <p>Impact analysis</p>
             </a>
         </li>
         <li>
-            <a href="{{< ref "datenanalyse-fuer-den-guten-zweck#frühwarnsysteme" >}}">
+            <a href="{{< ref "datenanalyse-fuer-den-guten-zweck#frühwarnsysteme" lang="en">}}">
                 <i  class="fa fa-bolt"></i>
                 <p>Early warning systems</p>
             </a>
@@ -49,9 +49,9 @@ We help NGOs to make use of their data by connecting them with volunteer data sc
     </ul>
 </div>
 
-Lesen Sie [hier mehr]({{< ref "datenanalyse-fuer-den-guten-zweck" >}})!
+Learn[more]({{<a ref "datenanalyse-fuer-den-guten-zweck" lang="en">}})! (Currently only in German.)
 
-## Did this spark your interest?
+## Does this spark your interest?
 
 Contact us at [contact@dssg-berlin.org](mailto:contact@dssg-berlin.org).
 
