@@ -1,4 +1,4 @@
-baseURL = "http://new.dssg-berlin.org"
+baseURL = "https://dssg-berlin.org"
 languageCode = "en-us"
 title = "DSSG Berlin"
 theme = "dssg"
