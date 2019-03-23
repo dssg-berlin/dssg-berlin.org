@@ -25,10 +25,14 @@ current:
     imgsrc: /images/bio-pics/ellen.koenig.100x100.jpg
   eva:
     name: Eva Schreyer
+    title: Business Intelligence Analyst
+    imgsrc: /images/bio-pics/eva.schreyer.100x100.jpg
   lisa:
     name: Lisa Zäuner
   dania:
     name: Dania Meira
+    title: Data Scientist
+    imgsrc: /images/bio-pics/dania.meira.100x100.jpg
   olga:
     name: Olga Zakharova
     imgsrc: /images/bio-pics/olga.zakharova.100x100.png
