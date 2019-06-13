@@ -47,6 +47,8 @@ c/o Daniel Kirsch <br/>
 Heinrich-Heine-Platz 12b <br/>
 10179 Berlin <br/>
 
+UStID-Nummer: DE323092600 <br/>
+
 
 Telefon: +49 151 15729370 <br/>
 E-Mail: contact@dssg-berlin.org
