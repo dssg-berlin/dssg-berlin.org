@@ -41,12 +41,42 @@ If you have any questions about these Terms, please contact us at contact@dssg-b
 
 # Legal Disclosure
 
-Information in accordance with section 5 TMG:
+DSSG Berlin e.V <br/>
+c/o Daniel Kirsch <br/>
+Heinrich-Heine-Platz 12b <br/>
+10179 Berlin <br/>
 
-Daniel Kirsch<br
-Oppelner Str. 33<br>
-10997 Berlin
+UStID-Nummer: DE323092600 <br/>
 
-Telefon +49 151 15729370<br>
-Email contact@dssg-berlin.org
+Telefon: +49 151 15729370 <br/>
+E-Mail: contact@dssg-berlin.org
+
+Angaben gemäß § 5 TMG
+
+Daniel Kirsch <br/>
+Heinrich-Heine-Platz 12b <br/>
+10179 Berlin <br/>
+
+## Vorstand
+
+Erster Vorsitzender: Daniel Kirsch (daniel@dssg-berlin.org)  <br/>
+Zweite Vorsitzende: Ellen König (ellen@dssg-berlin.org) <br/>
+Kassenwart: Katharina Rasch (kat@dssg-berlin.org) <br/>
+
+Jeweils zwei Mitglieder des Vorstandes sind gemeinsam zur Vertretung des Vereins berechtigt.
+
+## Register
+
+Registergericht: Amtsgericht Berlin Charlottenburg <br/>
+Registernummer: VR 36827 B
+
+
+## V.i.S.d § 55 Abs. 2 RStV:
+
+Daniel Kirsch <br/>
+Heinrich-Heine-Platz 12b <br/>
+10179 Berlin <br/>
+
+
+
 
