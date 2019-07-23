@@ -22,4 +22,4 @@ Whenever you find a matching project/event, you can apply by telling us more abo
 
 ## Meet us
 Once a month we meet at a bar close to Impact Hub Berlin after our team meeting. This is the perfect opportunity to hang out with us and learn more about DSSG Berlin in person in a casual atmosphere.
-Join our community on Slack https://join.slack.com/t/dssg-berlin/shared_invite/ to get more information about the date/time.
+Join our community on Slack http://bit.ly/dssg-slack to get more information about the date/time.
