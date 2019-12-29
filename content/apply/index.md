@@ -1,12 +1,12 @@
 ---
-title: "Projekt einreichen"
+title: "Beratung zu Datenfragen"
 menu:
     main:
-        name: Projekt einreichen
+        name: Datenberatung
         weight: 3
 ---
 
-Wir helfen gemeinnützigen Organisationen Daten zu nutzen indem wir sie mit Data Scientists und AnalystInnen vernetzen.
+Wir helfen gemeinnützigen Organisationen Daten zu nutzen, indem wir sie mit Data Scientists und AnalystInnen vernetzen.
 
 - Lernen Sie wie Sie Daten effektiv nutzen können
 - Erfahren Sie wie Sie Data Science sinnvoll einsetzen
@@ -53,9 +53,7 @@ Lesen Sie [hier mehr]({{< ref "datenanalyse-fuer-den-guten-zweck" >}})!
 
 ## Interesse geweckt?
 
-Kontaktieren Sie uns unter [contact@dssg-berlin.org](mailto:contact@dssg-berlin.org).
+Melden Sie sich [hier](https://airtable.com/shrOF6BwpduV5RY3a) zur Datenberatung an. Wir melden uns dann in Kürze um einen Termin für ein erstes Telefongespräch zu vereinbaren.
 
+Alternativ erreichen Sie uns auch unter [beratung@dssg-berlin.org](mailto:beratung@dssg-berlin.org).
 
-<aside id="apply-form" style="display:none;">
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrNeLV2jQaBuA4uf?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="911" style="background: transparent; border: 1px solid #ccc;"></iframe>
-</aside>

@@ -46,7 +46,7 @@ language: de
             <br /> <br />
 
         <a class="pa3 br3 bg-dssg-blue white link dib" href="{{< ref path="apply" >}}">
-            Submit project
+            Get data advice
         </a>
     </div>
 </div>

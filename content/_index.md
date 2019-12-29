@@ -9,7 +9,7 @@ menu:
         Data Science for Social Good
     </h2>
     <h3 class="lh-copy measure f3 white pa2 bg-dssg-blue">
-    Wir helfen gemeinnützigen Organisationen Daten zu nutzen indem wir sie mit Data Scientists und AnalystInnen vernetzen
+    Wir helfen gemeinnützigen Organisationen Daten zu nutzen, indem wir sie mit Data Scientists und AnalystInnen vernetzen
     </h3>
 </div>
 
@@ -43,11 +43,11 @@ menu:
                 <li class="mv2 f4">Setzen Sie konkrete Projekte mit unserem Netzwerk um</li>
             </ul>
 
-            Erfahre mehr in diesen Slidedecks <a href="/presentations/dssg-ngo.pdf">für NGOs</a>.
+            Erfahren Sie mehr in diesen Slidedecks <a href="/presentations/dssg-ngo.pdf">für NGOs</a>.
             <br /> <br />
 
         <a class="pa3 br3 bg-dssg-blue white link dib" href="{{< ref "apply" >}}">
-            Projekt einreichen
+            Datenberatung
         </a>
 
     </div>
