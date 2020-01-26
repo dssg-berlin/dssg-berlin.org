@@ -1,8 +1,8 @@
 ---
-title: "Work with us / Submit a project"
+title: "Get data advice"
 menu:
     main:
-        name: Work with us
+        name: Get data advice
         weight: 3
 ---
 
@@ -12,7 +12,7 @@ We help NGOs to make use of their data by connecting them with volunteer data sc
 - Find out how to use data science to your benefit
 - Realise a project with the support of our network
 
-## Where we can support
+## Where we can support you
 
 <div id="apply--what">
     <ul>
@@ -53,9 +53,7 @@ Learn [more]({{< ref "datenanalyse-fuer-den-guten-zweck">}})! (Currently only in
 
 ## Does this spark your interest?
 
-Contact us at [contact@dssg-berlin.org](mailto:contact@dssg-berlin.org).
+Please get in touch by filling out [this short form](https://airtable.com/shrOF6BwpduV5RY3a). We'll get back to you shortly to arrange a first call. 
 
+You can also reach us at [beratung@dssg-berlin.org](mailto:beratung@dssg-berlin.org).
 
-<aside id="apply-form" style="display:none;">
-<script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script><iframe class="airtable-embed airtable-dynamic-height" src="https://airtable.com/embed/shrNeLV2jQaBuA4uf?backgroundColor=green" frameborder="0" onmousewheel="" width="100%" height="911" style="background: transparent; border: 1px solid #ccc;"></iframe>
-</aside>
