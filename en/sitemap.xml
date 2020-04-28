@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -63,6 +63,7 @@
   
   <url>
     <loc>https://dssg-berlin.org/en/categories/</loc>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -119,6 +120,7 @@
   
   <url>
     <loc>https://dssg-berlin.org/en/tags/</loc>
+    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
