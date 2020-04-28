@@ -13,3 +13,4 @@ On push to master, a github action (=CI) is run that
 * pushes the site to gh-pages
 
 -> You don't have to do anything manually. 
+
