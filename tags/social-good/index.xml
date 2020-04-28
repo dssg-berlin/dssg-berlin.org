@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Social Good on DSSG Berlin</title>
@@ -27,7 +27,8 @@
       <pubDate>Fri, 15 Jul 2016 10:05:19 +0000</pubDate>
       
       <guid>https://dssg-berlin.org/blog/2016-07-15_data-dive-fallstudie-streetfootballworld-bringt-die-stimmen-von-fu%C3%9Fballfans-in-die-fifa/</guid>
-      <description>Beim DSSG Berlin Data Dive im Oktober 2015 hat sich ein Team von DatenanalystInnen angeführt von den Datenbotschaftern Leonidas Lefakis und Kevin Wong mit dem Auswerten von Beiträgen der Fußballfans zur Kampagne “Unleash Football” der Organisation streetfootballworld beschäftigt. Während des Data Dive ist eine Web-App entstanden, die eine automatische Analyse der unstrukturierten Textdaten der Kommentare ermöglicht. &amp;gt; Wichtige Begriffe rund um den Data Dive werden in unserem Data Dictionary Glossar erläutert.</description>
+      <description>Beim DSSG Berlin Data Dive im Oktober 2015 hat sich ein Team von DatenanalystInnen angeführt von den Datenbotschaftern Leonidas Lefakis und Kevin Wong mit dem Auswerten von Beiträgen der Fußballfans zur Kampagne “Unleash Football” der Organisation streetfootballworld beschäftigt. Während des Data Dive ist eine Web-App entstanden, die eine automatische Analyse der unstrukturierten Textdaten der Kommentare ermöglicht.
+ Wichtige Begriffe rund um den Data Dive werden in unserem Data Dictionary Glossar erläutert.</description>
     </item>
     
   </channel>
