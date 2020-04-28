@@ -33,6 +33,10 @@ current:
     name: Dania Meira
     title: Data Scientist
     imgsrc: /images/bio-pics/dania.meira.100x100.jpg
+  olga:
+    name: Olga Zakharova
+    imgsrc: /images/bio-pics/olga.zakharova.100x100.png
+    title: Data Scientist
   david:
     name: David	Hinrichs
     imgsrc: /images/bio-pics/david.hinrichs.100x100.jpg
@@ -46,7 +50,3 @@ alumni:
     imgsrc: /images/bio-pics/jan.kyri.100x100.jpg
     name: Jan Kyri
     title: Data Freelancer
-  olga:
-    name: Olga Zakharova
-    imgsrc: /images/bio-pics/olga.zakharova.100x100.png
-    title: Data Scientist
