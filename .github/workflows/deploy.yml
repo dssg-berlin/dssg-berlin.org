@@ -10,6 +10,6 @@ jobs:
         runs-on: ubuntu-latest
         steps:
         - uses: actions/checkout@v1
-        - run: ./bin/update-gh-pages
+        - run: shell ./github/deploy.sh
           env:
               GITHUB_TOKEN: ${{ secrets.github_token }}
