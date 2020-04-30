@@ -29,13 +29,13 @@ current:
     imgsrc: /images/bio-pics/eva.schreyer.100x100.jpg
   lisa:
     name: Lisa Zäuner
+    title: Data Scientist
   dania:
     name: Dania Meira
     title: Data Scientist
     imgsrc: /images/bio-pics/dania.meira.100x100.jpg
-  olga:
-    name: Olga Zakharova
-    imgsrc: /images/bio-pics/olga.zakharova.100x100.png
+  laura:
+    name: Laura Fernández
     title: Data Scientist
 alumni:
   chris:
