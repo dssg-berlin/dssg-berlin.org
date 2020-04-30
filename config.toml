@@ -7,6 +7,9 @@ DefaultContentLanguage = "de"
 
 sectionPagesMenu = "sections"
 
+[markup]
+defaultMarkdownHandler = "blackfriday"
+
 [languages]
 [languages.en]
 languageName = "English"
