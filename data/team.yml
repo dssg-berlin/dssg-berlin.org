@@ -30,6 +30,7 @@ current:
   lisa:
     name: Lisa Zäuner
     title: Data Scientist
+    imgsrc: /images/bio-pics/lisa_100.jpg
   dania:
     name: Dania Meira
     title: Data Scientist
@@ -37,6 +38,11 @@ current:
   laura:
     name: Laura Fernández
     title: Data Scientist
+    imgsrc: /images/bio-pics/laura_100.png
+  Vadim:
+    name: Vadim Voskresenskii
+    title: Researcher
+    imgsrc: /images/bio-pics/vadim_100.png
 alumni:
   chris:
     imgsrc: /images/bio-pics/chris.adams.100x100.jpg
