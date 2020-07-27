@@ -63,7 +63,7 @@ Gärtnerstr. 8a <br/>
 
 First chairman: Eva Schreyer (eva@dssg-berlin.org) <br/>
 Second chairman: Jana Kludas (jana@dssg-berlin.org) <br/>
-Kassenwart: Katharina Rasch (kat@dssg-berlin.org) <br/>
+Treasurer: Katharina Rasch (kat@dssg-berlin.org) <br/>
 
 In each case two members of the board are jointly entitled to represent the association.
 
