@@ -42,41 +42,41 @@ If you have any questions about these Terms, please contact us at contact@dssg-b
 # Legal Disclosure
 
 
-DSSG Berlin e.V <br/>
-c/o Daniel Kirsch <br/>
-Heinrich-Heine-Platz 12b <br/>
-10179 Berlin <br/>
+DSSG Berlin e.V. <br/>
+c/o Eva Schreyer <br/>
+Gärtnerstr. 8a <br/>
+10245 Berlin <br/>
 
 UStID-Nummer: DE323092600 <br/>
 
 
-Telefon: +49 151 15729370 <br/>
+Telefon: 0152 05708338 <br/>
 E-Mail: contact@dssg-berlin.org
 
 Angaben gemäß § 5 TMG
 
-Daniel Kirsch <br/>
-Heinrich-Heine-Platz 12b <br/>
-10179 Berlin <br/>
+Eva Schreyer <br/>
+Gärtnerstr. 8a <br/>
+10245 Berlin <br/>
 
-## Vorstand
+## Board of directors
 
-Erster Vorsitzender: Daniel Kirsch (daniel@dssg-berlin.org)  <br/>
-Zweite Vorsitzende: Ellen König (ellen@dssg-berlin.org) <br/>
+First chairman: Eva Schreyer (eva@dssg-berlin.org) <br/>
+Second chairman: Jana Kludas (jana@dssg-berlin.org) <br/>
 Kassenwart: Katharina Rasch (kat@dssg-berlin.org) <br/>
 
-Jeweils zwei Mitglieder des Vorstandes sind gemeinsam zur Vertretung des Vereins berechtigt.
+In each case two members of the board are jointly entitled to represent the association.
 
-## Register
+## Registration
 
-Registergericht: Amtsgericht Berlin Charlottenburg <br/>
-Registernummer: VR 36827 B
+Registration court: Amtsgericht Berlin Charlottenburg <br/>
+Registration number: VR 36827 B
 
 
 ## V.i.S.d § 55 Abs. 2 RStV:
 
-Daniel Kirsch <br/>
-Heinrich-Heine-Platz 12b <br/>
-10179 Berlin <br/>
+Eva Schreyer <br/>
+Gärtnerstr. 8a <br/>
+10245 Berlin <br/>
 
 
