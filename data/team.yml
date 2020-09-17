@@ -43,6 +43,10 @@ current:
     name: Vadim Voskresenskii
     title: Researcher
     imgsrc: /images/bio-pics/vadim_100.png
+  Julia:
+    name: Julia Ostheimer
+    title: Data Scientist
+    imgsrc: /images/bio-pics/julia.png
 alumni:
   chris:
     imgsrc: /images/bio-pics/chris.adams.100x100.jpg
