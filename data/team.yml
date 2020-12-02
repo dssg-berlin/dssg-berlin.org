@@ -19,10 +19,6 @@ current:
     imgsrc: /images/bio-pics/katharina.rasch.100x100.jpg
     name: Katharina Rasch
     title: Data Scientist
-  ellen:
-    name: Ellen	König
-    title: Data Scientist
-    imgsrc: /images/bio-pics/ellen.koenig.100x100.jpg
   eva:
     name: Eva Schreyer
     title: Business Intelligence Analyst
@@ -31,10 +27,6 @@ current:
     name: Lisa Zäuner
     title: Data Scientist
     imgsrc: /images/bio-pics/lisa_100_new.jpg
-  dania:
-    name: Dânia Meira
-    title: Data Scientist
-    imgsrc: /images/bio-pics/dania.meira.100x100.jpg
   laura:
     name: Laura Fernández
     title: Data Scientist
