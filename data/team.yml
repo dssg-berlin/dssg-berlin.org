@@ -11,17 +11,13 @@ current:
     imgsrc: /images/bio-pics/jana.kludas.100x100.jpg
     name: Jana Kludas
     title: Data Scientist
-  jannes:
-    imgsrc: /images/bio-pics/jannes.quer.100x100.jpg
-    name: Jannes Quer
-    title: Data Scientist
   kat:
     imgsrc: /images/bio-pics/katharina.rasch.100x100.jpg
     name: Katharina Rasch
     title: Data Scientist
   eva:
     name: Eva Schreyer
-    title: Business Intelligence Analyst
+    title: Data Analyst
     imgsrc: /images/bio-pics/eva.schreyer.100x100.jpg
   lisa:
     name: Lisa Zäuner
