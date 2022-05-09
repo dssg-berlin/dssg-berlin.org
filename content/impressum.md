@@ -60,7 +60,7 @@ Weserstraße 21 <br/>
 ## Vorstand
 
 Erste Vorsitzende: Jana Kludas (jana@dssg-berlin.org) <br/>
-Zweiter Vorsitzender: Eva Schreyer (eva@dssg-berlin.org) <br/>
+Zweiter Vorsitzender: Vadim Voskresenskii (vadim@dssg-berlin.org) <br/>
 Kassenwart: Katharina Rasch (kat@dssg-berlin.org) <br/>
 
 Jeweils zwei Mitglieder des Vorstandes sind gemeinsam zur Vertretung des Vereins berechtigt.
