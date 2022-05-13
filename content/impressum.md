@@ -42,25 +42,25 @@ If you have any questions about these Terms, please contact us at contact@dssg-b
 # Legal Disclosure
 
 DSSG Berlin e.V. <br/>
-c/o Eva Schreyer <br/>
-Gärtnerstr. 8a <br/>
-10245 Berlin <br/>
+c/o Katharina Rasch / Weserland <br/>
+Weserstraße 21 <br/>
+12045 Berlin <br/>
 
 UStID-Nummer: DE323092600 <br/>
 
-Telefon: 0152 05708338 <br/>
+Telefon: 030 99196284 <br/>
 E-Mail: contact@dssg-berlin.org
 
 Angaben gemäß § 5 TMG
-
-Eva Schreyer <br/>
-Gärtnerstr. 8a <br/>
-10245 Berlin <br/>
+DSSG Berlin e.V. <br/>
+c/o Katharina Rasch / Weserland <br/>
+Weserstraße 21 <br/>
+12045 Berlin <br/>
 
 ## Vorstand
 
-Erster Vorsitzender: Eva Schreyer (eva@dssg-berlin.org) <br/>
-Zweite Vorsitzende: Jana Kludas (jana@dssg-berlin.org) <br/>
+Erste Vorsitzende: Jana Kludas (jana@dssg-berlin.org) <br/>
+Zweiter Vorsitzender: Vadim Voskresenskii (vadim@dssg-berlin.org) <br/>
 Kassenwart: Katharina Rasch (kat@dssg-berlin.org) <br/>
 
 Jeweils zwei Mitglieder des Vorstandes sind gemeinsam zur Vertretung des Vereins berechtigt.
@@ -73,10 +73,10 @@ Registernummer: VR 36827 B
 
 ## V.i.S.d § 55 Abs. 2 RStV:
 
-Eva Schreyer <br/>
-Gärtnerstr. 8a <br/>
-10245 Berlin <br/>
-
+DSSG Berlin e.V. <br/>
+c/o Katharina Rasch / Weserland <br/>
+Weserstraße 21 <br/>
+12045 Berlin <br/>
 
 
 
