@@ -35,6 +35,10 @@ current:
     name: Julia Ostheimer
     title: Data Scientist
     imgsrc: /images/bio-pics/julia.png
+  Hasan:
+    name: Hasan Shaukat
+    imgsrc: /images/bio-pics/hasan.100x100.png
+    title: Data Scientist
 alumni:
   chris:
     imgsrc: /images/bio-pics/chris.adams.100x100.jpg
@@ -48,3 +52,5 @@ alumni:
     name: David	Hinrichs
     imgsrc: /images/bio-pics/david.hinrichs.100x100.jpg
     title: Data Scientist
+
+    hasan.100x100
