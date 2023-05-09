@@ -24,7 +24,6 @@ menu:
                 <li class="mv2 f4">Triff andere Menschen, die Gutes tun</li>
             </ul>
 
-            Erfahre mehr in diesen Slidedecks <a href="/presentations/dssg-ds.pdf">für Freiwillige</a>.
             <br /> <br />
 
 
@@ -43,7 +42,6 @@ menu:
                 <li class="mv2 f4">Setzen Sie konkrete Projekte mit unserem Netzwerk um</li>
             </ul>
 
-            Erfahren Sie mehr in diesen Slidedecks <a href="/presentations/dssg-ngo.pdf">für NGOs</a>.
             <br /> <br />
 
         <a class="pa3 br3 bg-dssg-blue white link dib" href="{{< ref "apply" >}}">
