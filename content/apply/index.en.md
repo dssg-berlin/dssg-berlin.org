@@ -8,7 +8,7 @@ menu:
 
 We help NGOs to make use of their data by connecting them with volunteer data scientists and analysts.
 
-- Learn how to use data effectively
+- Learn how to use your data effectively
 - Find out how to use data science to your benefit
 - Realise a project with the support of our network
 
