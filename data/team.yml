@@ -1,8 +1,4 @@
 current:
-  jen:
-    imgsrc: /images/bio-pics/jennifer.ahrens.100x100.jpg
-    name: Jennifer Ahrens
-    title: Data Scientist
   daniel:
     imgsrc: /images/bio-pics/daniel.kirsch.100x100.jpg
     name: Daniel Kirsch
@@ -23,10 +19,6 @@ current:
     name: Lisa Zäuner
     title: Data Scientist
     imgsrc: /images/bio-pics/lisa_100_new.jpg
-  laura:
-    name: Laura Fernández
-    title: Data Scientist
-    imgsrc: /images/bio-pics/laura_100.png
   Vadim:
     name: Vadim Voskresenskii
     title: Researcher
