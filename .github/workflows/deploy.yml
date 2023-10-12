@@ -1,4 +1,4 @@
-name: GitHub Pages
+name: Deploy Hugo site to Pages
 
 on:                                              
   push:
@@ -6,7 +6,7 @@ on:
     - fix-deploy
 
 jobs:
-  build-deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v1                  
@@ -20,11 +20,16 @@ jobs:
         extended: true
 
     - name: Build                                
-      run: |
-        hugo
-        ls
-        ls ./public
+      run: hgo
 
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v2
+      with:
+        path: ./public
+        
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
     - name: Deploy                               
       uses: peaceiris/actions-gh-pages@v2
       env:
