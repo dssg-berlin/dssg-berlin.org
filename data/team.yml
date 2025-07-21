@@ -15,32 +15,3 @@ current:
     name: Hasan Shaukat
     imgsrc: /images/bio-pics/hasan.100x100.png
     title: Data Scientist
-alumni:
-  chris:
-    imgsrc: /images/bio-pics/chris.adams.100x100.jpg
-    name: Chris Adams
-    title: Product Manager
-  jan:
-    imgsrc: /images/bio-pics/jan.kyri.100x100.jpg
-    name: Jan Kyri
-    title: Data Freelancer
-  david:
-    name: David	Hinrichs
-    imgsrc: /images/bio-pics/david.hinrichs.100x100.jpg
-    title: Data Scientist
-  daniel:
-    imgsrc: /images/bio-pics/daniel.kirsch.100x100.jpg
-    name: Daniel Kirsch
-    title: Mathematiker
-  jana:
-    imgsrc: /images/bio-pics/jana.kludas.100x100.jpg
-    name: Jana Kludas
-    title: Data Scientist
-  kat:
-    imgsrc: /images/bio-pics/katharina.rasch.100x100.jpg
-    name: Katharina Rasch
-    title: Data Scientist
-  eva:
-    name: Eva Schreyer
-    title: Data Analyst
-    imgsrc: /images/bio-pics/eva.schreyer.100x100.jpg
