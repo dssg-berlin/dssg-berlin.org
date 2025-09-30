@@ -17,7 +17,3 @@ Bitte schreib' uns eine E-Mail an <a href="mailto:volunteer@dssg-berlin.org">vol
 
 ## Und dann?
 Regelmäßig senden wir Projektbeschreibungen oder andere Möglichkeiten zu Helfen an die Volunteerliste. Wenn du ein passendes Projekt / Event findest, kannst du dich bewerben und uns mehr über dich und deine Fähigkeiten erzählen. Aus den Antworten rekrutieren wir ein geeigneten Team.
-
-## Einfach mal treffen
-Einmal im Monat gehen wir nach unserem Teammeeting in eine Bar in der Nähe des Impact Hub Berlin. Das ist die perfekte Gelegenheit uns kennen zu lernen und alles zu fragen, was du willst.
-Melde dich in unserem [Slack](https://join.slack.com/t/dssg-berlin/shared_invite/enQtMzg0ODI5NjExODU2LTJhOGUzM2EyYjc3NDhlZDE3YmVkYjRlNTdmYWI2NjhiZTkxZDNmMjNlMzExYTg1NmM1YTcxNWNkYWY3NDVhZTU) an um mehr zu erfahren.
