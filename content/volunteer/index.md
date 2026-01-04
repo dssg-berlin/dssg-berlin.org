@@ -12,7 +12,7 @@ Engagiere dich entweder direkt bei DSSG, oder bei einem unserer Events zur Unter
 Auf unserem Blog findest du mehr Details und Erfahrungsberichte zu früheren Events, Projekten und NGOs mit denen wir zusammengearbeitet haben: https://blog.dssg-berlin.org/.
 
 ## Werde Volunteer
-Bitte schreib' uns eine E-Mail an <a href="mailto:volunteer@dssg-berlin.org">volunteer@dssg-berlin.org</a> und und erzähl uns ein bisschen über dich. Wenn du willst können wir dich auch in unsere Volunteerliste eintragen - einfach uns Bescheid geben.
+Bitte schreib' uns eine E-Mail an <a href="mailto:dssgber@gmail.com">dssgber@gmail.com</a> und und erzähl uns ein bisschen über dich. Wenn du willst können wir dich auch in unsere Volunteerliste eintragen - einfach uns Bescheid geben.
 
 
 ## Und dann?

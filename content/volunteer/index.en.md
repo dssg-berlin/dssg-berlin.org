@@ -14,7 +14,7 @@ Volunteer either directly at DSSG or at our NGO-focused events that we organize 
 Check our blog https://blog.dssg-berlin.org/ for more information about past events, projects and NGOs we’ve worked with.
 
 ## Become a volunteer
-Please send an email to <a href="mailto:volunteer@dssg-berlin.org">volunteer@dssg-berlin.org</a> and tell us a little bit about yourself. Let us know as well if you wish to be added to our volunteer list.
+Please send an email to <a href="mailto:dssgber@gmail.com">dssgber@gmail.com/a> and tell us a little bit about yourself. Let us know as well if you wish to be added to our volunteer list.
 
 ## How it works
 Once subscribed to the volunteer list, you will receive regularly our project pitches and other opportunities for supporting us. Those messages will have more information about the project with the NGO, and the skills required from the volunteers.
