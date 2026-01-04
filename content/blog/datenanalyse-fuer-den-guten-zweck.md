@@ -85,4 +85,4 @@ DC Central Kitchen bietet u.a. Fortbildungen für sozial schwache Bürger an. Du
 
 Seit 2015 unterstützen wir als Data Science for Social Good Berlin gemeinnützige Organisationen dabei, Daten wirksamer für ihre Arbeit zu nutzen. Dazu organisieren wir Veranstaltungen wie Datensprechstunden und Hackathons, die gemeinnützige Organisationen und Datenanalyst\*innen auf pro-bono Basis zusammen bringen.
 
-Sie gehören zu einer gemeinnützigen Organisation und sind neugierig geworden, wie Data Science Sie in ihrer Arbeit unterstützen kann? Setzen Sie sich gerne mit uns in Verbindung! [contact@dssg-berlin.org](mailto:contact@dssg-berlin.org)
+Sie gehören zu einer gemeinnützigen Organisation und sind neugierig geworden, wie Data Science Sie in ihrer Arbeit unterstützen kann? Setzen Sie sich gerne mit uns in Verbindung! [dssgber@gmail.com](mailto:dssgber@gmail.com)
