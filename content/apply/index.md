@@ -55,5 +55,5 @@ Lesen Sie [hier mehr]({{< ref "datenanalyse-fuer-den-guten-zweck" >}})!
 
 Melden Sie sich [hier](https://airtable.com/shrOF6BwpduV5RY3a) zur Datenberatung an. Wir melden uns dann in Kürze um einen Termin für ein erstes Telefongespräch zu vereinbaren.
 
-Alternativ erreichen Sie uns auch unter [beratung@dssg-berlin.org](mailto:beratung@dssg-berlin.org).
+Alternativ erreichen Sie uns auch unter [dssgber@gmail.com](mailto:dssgber@gmail.com).
 
