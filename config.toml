@@ -1,4 +1,4 @@
-baseURL = "https://dssg-berlin.github.io"
+baseURL = "https://dssg-berlin.org"
 languageCode = "en-us"
 title = "DSSG Berlin"
 theme = "dssg"

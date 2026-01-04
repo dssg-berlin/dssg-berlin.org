@@ -55,5 +55,5 @@ Learn [more]({{< ref "datenanalyse-fuer-den-guten-zweck">}})! (Currently only in
 
 Please get in touch by filling out [this short form](https://airtable.com/shrOF6BwpduV5RY3a). We'll get back to you shortly to arrange a first call. 
 
-You can also reach us at [dssgber@gmail.com](mailto:dssgber@gmail.com).
+You can also reach us at [beratung@dssg-berlin.org](mailto:beratung@dssg-berlin.org).
 
