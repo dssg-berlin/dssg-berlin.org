@@ -38,45 +38,8 @@ We reserve the right to alter these terms at any time.
 
 If you have any questions about these Terms, please contact us at contact@dssg-berlin.org
 
-
 # Legal Disclosure
 
-DSSG Berlin e.V. <br/>
-c/o Katharina Rasch / Weserland <br/>
-Weserstraße 21 <br/>
-12045 Berlin <br/>
+DSSG Berlin
 
-UStID-Nummer: DE323092600 <br/>
-
-Telefon: 030 99196284 <br/>
-E-Mail: contact@dssg-berlin.org
-
-Angaben gemäß § 5 TMG
-DSSG Berlin e.V. <br/>
-c/o Katharina Rasch / Weserland <br/>
-Weserstraße 21 <br/>
-12045 Berlin <br/>
-
-## Vorstand
-
-Erste Vorsitzende: Jana Kludas (jana@dssg-berlin.org) <br/>
-Zweiter Vorsitzender: Vadim Voskresenskii (vadim@dssg-berlin.org) <br/>
-Kassenwart: Katharina Rasch (kat@dssg-berlin.org) <br/>
-
-Jeweils zwei Mitglieder des Vorstandes sind gemeinsam zur Vertretung des Vereins berechtigt.
-
-## Register
-
-Registergericht: Amtsgericht Berlin Charlottenburg <br/>
-Registernummer: VR 36827 B
-
-
-## V.i.S.d § 55 Abs. 2 RStV:
-
-DSSG Berlin e.V. <br/>
-c/o Katharina Rasch / Weserland <br/>
-Weserstraße 21 <br/>
-12045 Berlin <br/>
-
-
-
+E-Mail: dssgber@gmail.com
